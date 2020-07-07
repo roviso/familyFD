@@ -8,4 +8,4 @@ initiation phase started..
 3
 2
 1
-blast up
+blast up..
