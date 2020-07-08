@@ -11,3 +11,4 @@ initiation phase started..
 blast up..
 ok
 NANO
+Nano in nano
