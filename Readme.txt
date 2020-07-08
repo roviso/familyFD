@@ -10,3 +10,4 @@ initiation phase started..
 1
 blast up..
 ok
+NANO
